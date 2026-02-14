@@ -26,6 +26,17 @@
 
 </div>
 
+<!-- LEETCODE STATS -->
+## 🧩 &nbsp;LeetCode Stats
+
+<div align="center">
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/aarvind-dev?ext=contest&theme=dark&font=Fira%20Code&border=0&radius=10)
+
+</div>
+
+<br/>
+
 <!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
@@ -104,17 +115,6 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 <!-- ACTIVITY GRAPH -->
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aarvind-dev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
-<!-- LEETCODE STATS -->
-## 🧩 &nbsp;LeetCode Stats
-
-<div align="center">
-  <a href="https://leetcode.com/aarvind-dev">
-    <img width="60%" src="https://leetcard.jacoblin.cool/aarvind-dev?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=10" alt="LeetCode Stats"/>
-  </a>
 </div>
 
 <br/>

@@ -45,7 +45,7 @@ currently_learning:
   - "Advanced React Patterns"
   - "System Design"
 
-fun_fact: "I debug with console.log and I'm not ashamed 🤷‍♂️"
+fun_fact: "I debug with console.log and I'm not ashamed"
 ```
 
 <br/>
@@ -83,15 +83,20 @@ fun_fact: "I debug with console.log and I'm not ashamed 🤷‍♂️"
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aarvind-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
-  &nbsp;
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aarvind-dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
+  <a href="https://github.com/aarvind-dev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aarvind-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/aarvind-dev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aarvind-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarvind-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+  <a href="https://github.com/aarvind-dev">
+    <img width="70%" src="https://streak-stats.demolab.com/?user=aarvind-dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <br/>
@@ -122,17 +127,6 @@ fun_fact: "I debug with console.log and I'm not ashamed 🤷‍♂️"
   <a href="mailto:contact@aarvind.dev">
     <img src="https://img.shields.io/badge/Email-contact@aarvind.dev-58a6ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
   </a>
-</div>
-
-<br/>
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aarvind-dev/aarvind-dev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aarvind-dev/aarvind-dev/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/aarvind-dev/aarvind-dev/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 <br/>

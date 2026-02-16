@@ -219,13 +219,7 @@ philosophy: "Code is like humor. When you have to explain it, it's bad."
 
 ### 🏆  Achievements
 
-<a href="https://github.com/aarvnd">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=aarvnd&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&rank=-C,-B"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=aarvnd&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&rank=-C,-B"/>
-    <img alt="trophies"/>
-  </picture>
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=aarvnd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/><br/>
 
@@ -246,16 +240,6 @@ philosophy: "Code is like humor. When you have to explain it, it's bad."
 <a href="https://instagram.com/arvind.tms" target="_blank"><img src="https://img.shields.io/badge/Instagram-arvind.tms-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f172a" alt="Instagram"/></a>
 <br/>
 <a href="mailto:contact@aarvind.dev"><img src="https://img.shields.io/badge/Email-contact@aarvind.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email"/></a>
-
-<br/><br/>
-
-<!-- DEV QUOTE -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default"/>
-  <img alt="quote"/>
-</picture>
 
 <br/><br/>
 

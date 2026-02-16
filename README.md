@@ -215,6 +215,26 @@ philosophy: "Code is like humor. When you have to explain it, it's bad."
   <img width="100%" alt="line"/>
 </picture>
 
+<!-- ══════════════════ TROPHIES ══════════════════ -->
+
+### 🏆  Achievements
+
+<a href="https://github.com/aarvnd">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=aarvnd&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&rank=-C,-B"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=aarvnd&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&rank=-C,-B"/>
+    <img alt="trophies"/>
+  </picture>
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+  <img width="100%" alt="line"/>
+</picture>
+
 <!-- ══════════════════ CONNECT ══════════════════ -->
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="22"/>  Connect
